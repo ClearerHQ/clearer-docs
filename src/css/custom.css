@@ -4,27 +4,27 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* Clearer primary: softened Sage Green (desaturated from #7FA88C) */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #849e8f;
+  --ifm-color-primary-dark: #758f80;
+  --ifm-color-primary-darker: #6e8779;
+  --ifm-color-primary-darkest: #5a6f63;
+  --ifm-color-primary-light: #93ab9e;
+  --ifm-color-primary-lighter: #9bb3a6;
+  --ifm-color-primary-lightest: #b1c4b8;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Lighter, soft sage variants for dark mode readability */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #a3b9ab;
+  --ifm-color-primary-dark: #91aa9a;
+  --ifm-color-primary-darker: #87a291;
+  --ifm-color-primary-darkest: #6e8878;
+  --ifm-color-primary-light: #b5c7bb;
+  --ifm-color-primary-lighter: #bfcfc4;
+  --ifm-color-primary-lightest: #d3dfd7;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
