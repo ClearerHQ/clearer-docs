@@ -30,7 +30,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/ClearerHQ/clearer-docs/tree/main/',
         },
         blog: false,
         theme: {
@@ -41,22 +40,17 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Clearer Documentation',
-      logo: {
-        alt: 'Clearer',
-        src: 'img/logo.svg',
-      },
+      title: 'Clearer',
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
-          label: 'Start here',
+          label: 'Docs',
         },
         {
           href: 'https://github.com/ClearerHQ/clearer-docs',
