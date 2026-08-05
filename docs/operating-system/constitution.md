@@ -16,7 +16,7 @@ Features will evolve.
 
 Technology will change.
 
-Our principles should not.
+**Our principles should not.**
 
 ---
 
@@ -26,15 +26,7 @@ Modern life isn't just physically cluttered.
 
 It's digitally cluttered too.
 
-Thousands of unread emails.
-
-Photos we'll never look at again.
-
-Downloads we'll never open.
-
-Files scattered across devices.
-
-Notifications competing for our attention every day.
+Thousands of unread emails, photos we'll never look at again, downloads we'll never open, files scattered across devices, and notifications competing for our attention every day.
 
 The problem isn't that people are disorganised.
 
@@ -50,9 +42,9 @@ More automation.
 
 More notifications.
 
-We believe that's the wrong direction.
+**We believe that's the wrong direction.**
 
-People don't need another productivity tool.
+**People don't need another productivity tool.**
 
 They need something that helps them make small, confident decisions.
 
@@ -65,6 +57,8 @@ That's why Clearer exists.
 Not to help people achieve perfection.
 
 But to help them feel a little lighter than they did yesterday.
+
+<br />
 
 **Five minutes.**
 
@@ -80,7 +74,7 @@ Help people feel lighter by turning overwhelming digital clutter into small, con
 
 # 3. Our North Star
 
-Every interaction should leave people feeling clearer than before.
+**Every interaction should leave people feeling clearer than before.**
 
 If a feature creates confusion, it isn't finished.
 
@@ -88,4 +82,4 @@ If an interaction removes confidence, it needs redesigning.
 
 If a decision feels overwhelming, we've failed.
 
-We measure success not by how much people do in Clearer, but by how much lighter they feel when they leave it.
+**We measure success not by how much people do in Clearer, but by how much lighter they feel when they leave it.**
