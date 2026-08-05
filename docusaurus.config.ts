@@ -81,7 +81,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ClearerHQ.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Clearer.`,
     },
     prism: {
       theme: prismThemes.github,
