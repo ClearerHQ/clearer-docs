@@ -9,8 +9,8 @@ const sidebars: SidebarsConfig = {
       items: [
         'operating-system/constitution',
         'operating-system/product-principles',
-        'operating-system/brand-bible',
         'operating-system/design-language',
+        'operating-system/brand-bible',
       ],
     },
   ],
