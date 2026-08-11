@@ -13,6 +13,13 @@ const sidebars: SidebarsConfig = {
         'operating-system/brand-bible',
       ],
     },
+    {
+      type: 'category',
+      label: 'Product',
+      items: [
+        'product/product-requirements',
+      ],
+    },
   ],
 };
 
