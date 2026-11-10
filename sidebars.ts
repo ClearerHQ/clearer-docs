@@ -18,6 +18,7 @@ const sidebars: SidebarsConfig = {
       label: 'Product',
       items: [
         'product/product-requirements',
+        'product/technical-architecture',
       ],
     },
   ],

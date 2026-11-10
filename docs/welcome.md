@@ -53,6 +53,14 @@ How Clearer should feel.
 
 How Clearer communicates with the world.
 
+### 5. Product Requirements
+
+What we are building for the MVP.
+
+### 6. Technical Architecture
+
+How the MVP is built, deployed and operated.
+
 ---
 
 ## Our Philosophy

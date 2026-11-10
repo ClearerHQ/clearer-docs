@@ -19,6 +19,8 @@ The Brand Bible defines how Clearer communicates.
 
 This document defines what we are building.
 
+The [Technical Architecture](./technical-architecture.md) defines how we build and operate it.
+
 The first version of Clearer focuses on one problem:
 
 > **Making email easier to manage.**
